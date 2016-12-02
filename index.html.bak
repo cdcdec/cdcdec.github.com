@@ -25,11 +25,11 @@
       </div><!-- end header -->
 
  <img src="images/1024_1.jpg">
- <img src="images/1024_2.jpg">
- <img src="images/1024_3.jpg">
- <img src="images/1024_4.jpg">
- <img src="images/1024_5.jpg">
- <img src="images/1024_6.jpg">
+ <img src="images/1024_1.jpg">
+ <img src="images/1024_1.jpg">
+ <img src="images/1024_1.jpg">
+ <img src="images/1024_1.jpg">
+ <img src="images/1024_1.jpg">
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
